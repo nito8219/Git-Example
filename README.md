@@ -1,4 +1,4 @@
 # Git-Example
-Repo for testing
+Experimental repo for testing
 
 Some changes made!
